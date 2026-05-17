@@ -1,0 +1,7 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ font: "Iosevka Nerd Font 15";
+ combi-modi: "window,drun,ssh";
+ }
+@theme "~/.config/rofi/themes/dtos-center.rasi"
+
