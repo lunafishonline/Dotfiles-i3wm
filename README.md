@@ -2,5 +2,4 @@
 ## How to install: 
 - clone the following repo into ~/.config
 - then cd into st and write ``make && sudo/doas make clean install``
-- then cd into st and write 
-- Well done!!
+- Well done , you have installed ~~my~~!!
